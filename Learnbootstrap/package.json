@@ -9,7 +9,7 @@
   "author": "shivkaran Ravidas",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^4.0.0-alpha.6"
+    "bootstrap": "^4.6.2"
   },
   "devDependencies": {
     "browser-sync": "^2.24.4",
